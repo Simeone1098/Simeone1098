@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Financial model and quantitative studies of financial markets.
 - 🌱 I’m currently learning advanced portfolio management. Quantitative models to implement the asset allocation.
-- 💞️ I’m looking to collaborate on projects that involve this topic, if you are interersted in have partnership or work together on projects, write me.
+- 💞️ I’m looking to collaborate on projects that involve this topic, if you are interersted in having a partnership or work together on projects, write me.
 - 📫 How to reach me by: 
 Mail: francesco.simeone@live.it
 Linkedin: https://www.linkedin.com/in/francesco-simeone-722514189/
